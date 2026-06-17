@@ -117,61 +117,62 @@ The platform converts numerical cluster identities into precise business playboo
 
 ## 📸 Streamlit Application Interface Walkthrough
 <details>
-<summary>🌌 1. Executive Hub Control Terminal (Click to Expand)</summary>
+<summary> 1. Executive Hub Control Terminal (Click to Expand)</summary>
 <p align="center">
-<img src="1000251826.jpg" alt="Executive Hub Control Terminal" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+<img src="<img width="1763" height="844" alt="Screenshot_17-6-2026_0451_localhost" src="https://github.com/user-attachments/assets/6b1e1cb1-77ac-46ee-a985-ecde1fd2b13a" />
+" alt="Executive Hub Control Terminal" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 </details>
 <details>
-<summary>📂 2. Enterprise Data Ingestion Gateway (Click to Expand)</summary>
+<summary> 2. Enterprise Data Ingestion Gateway (Click to Expand)</summary>
 <p align="center">
 <img src="1000251843.jpg" alt="Enterprise Data Ingestion Gateway" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 </details>
 <details>
-<summary>🧮 3. Math & Clustering Engine Optimization Metrics (Click to Expand)</summary>
+<summary> 3. Math & Clustering Engine Optimization Metrics (Click to Expand)</summary>
 <p align="center">
 <img src="1000251844.jpg" alt="Clustering Engine Optimization Metrics" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 </details>
 <details>
-<summary>🔮 4. Multi-Dimensional Spatial Cluster View (Click to Expand)</summary>
+<summary> 4. Multi-Dimensional Spatial Cluster View (Click to Expand)</summary>
 <p align="center">
 <img src="1000251845.jpg" alt="Multi-Dimensional Spatial Cluster View" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 </details>
 <details>
-<summary>🔍 5. Live Cohort Profile Character Explorer (Click to Expand)</summary>
+<summary> 5. Live Cohort Profile Character Explorer (Click to Expand)</summary>
 <p align="center">
 <img src="1000251846.jpg" alt="Live Cohort Profile Character Explorer" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 </details>
 <details>
-<summary>🤖 6. Algorithmic Segment Prediction Sandbox (Click to Expand)</summary>
+<summary> 6. Algorithmic Segment Prediction Sandbox (Click to Expand)</summary>
 <p align="center">
 <img src="1000251848.jpg" alt="Algorithmic Segment Prediction Sandbox" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 </details>
 <details>
-<summary>📊 7. Revenue Performance & Aggregations Dashboard (Click to Expand)</summary>
+<summary> 7. Revenue Performance & Aggregations Dashboard (Click to Expand)</summary>
 <p align="center">
 <img src="1000251849.jpg" alt="Revenue Performance Dashboard" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 </details>
 <details>
-<summary>🗺️ 8. True Transaction Ledger Cohort Performance Heatmap (Click to Expand)</summary>
+<summary> 8. True Transaction Ledger Cohort Performance Heatmap (Click to Expand)</summary>
 <p align="center">
 <img src="1000251850.jpg" alt="Cohort Performance Heatmap" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 </details>
 <details>
-<summary>💡 9. Automated Marketing Playbook & Growth Vectors (Click to Expand)</summary>
+<summary> 9. Automated Marketing Playbook & Growth Vectors (Click to Expand)</summary>
 <p align="center">
 <img src="1000251851.jpg" alt="Automated Marketing Playbook" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 </details>
 <details>
-<summary>📤 10. Campaign Target File Extraction Panel (Click to Expand)</summary>
+<summary> 10. Campaign Target File Extraction Panel (Click to Expand)</summary>
 <p align="center">
 <img src="1000251852.jpg" alt="Campaign Target File Extraction Panel" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
