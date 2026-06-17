@@ -28,9 +28,8 @@ This system helps marketing and growth executives shift from blind, uniform targ
 
 ## ⚙️ System Workflow
 
-Raw Transaction Logs ──> Data Cleaning & Validation ──> RFM Feature Engineering  
-                                                                       │  
-                                                                       ▼  
+Raw Transaction Logs ──> Data Cleaning & Validation ──> RFM Feature Engineering  ──>
+                                                                       
 Streamlit Dashboard <── Marketing Analytics <── K-Means <── Log + StandardScaler
 
 ---
