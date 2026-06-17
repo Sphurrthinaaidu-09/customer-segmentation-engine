@@ -125,55 +125,55 @@ The platform converts numerical cluster identities into precise business playboo
 <details>
 <summary> 2. Enterprise Data Ingestion Gateway (Click to Expand)</summary>
 <p align="center">
-<img src="1000251843.jpg" alt="Enterprise Data Ingestion Gateway" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img width="1763" height="844" alt="2" src="https://github.com/user-attachments/assets/a3a87953-6741-4b01-b3e4-6c6c2d11b604" />
 </p>
 </details>
 <details>
 <summary> 3. Math & Clustering Engine Optimization Metrics (Click to Expand)</summary>
 <p align="center">
-<img src="1000251844.jpg" alt="Clustering Engine Optimization Metrics" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img width="1763" height="844" alt="3" src="https://github.com/user-attachments/assets/0f794ee2-4ff4-49e7-8eb2-8ee090cf7ad3" />
 </p>
 </details>
 <details>
 <summary> 4. Multi-Dimensional Spatial Cluster View (Click to Expand)</summary>
 <p align="center">
-<img src="1000251845.jpg" alt="Multi-Dimensional Spatial Cluster View" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+   <img width="1763" height="844" alt="4" src="https://github.com/user-attachments/assets/ebdbd9d8-bb4b-45b1-9de9-8ac9c26bb57b" />
 </p>
 </details>
 <details>
 <summary> 5. Live Cohort Profile Character Explorer (Click to Expand)</summary>
 <p align="center">
-<img src="1000251846.jpg" alt="Live Cohort Profile Character Explorer" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img width="1763" height="844" alt="5" src="https://github.com/user-attachments/assets/5af5d3ca-98d5-4746-8a0d-b752cab4b88c" />
 </p>
 </details>
 <details>
 <summary> 6. Algorithmic Segment Prediction Sandbox (Click to Expand)</summary>
 <p align="center">
-<img src="1000251848.jpg" alt="Algorithmic Segment Prediction Sandbox" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img width="1763" height="844" alt="6" src="https://github.com/user-attachments/assets/ce421b2d-0f84-453d-a049-f020e4bca7fa" />
 </p>
 </details>
 <details>
 <summary> 7. Revenue Performance & Aggregations Dashboard (Click to Expand)</summary>
 <p align="center">
-<img src="1000251849.jpg" alt="Revenue Performance Dashboard" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img width="1763" height="844" alt="7" src="https://github.com/user-attachments/assets/05a369e9-7c0f-40b5-85ab-18dfb11eef75" />
 </p>
 </details>
 <details>
 <summary> 8. True Transaction Ledger Cohort Performance Heatmap (Click to Expand)</summary>
 <p align="center">
-<img src="1000251850.jpg" alt="Cohort Performance Heatmap" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img width="1763" height="844" alt="8" src="https://github.com/user-attachments/assets/a8888ddc-b037-4c3a-ad46-b1b41bf0748e" />
 </p>
 </details>
 <details>
 <summary> 9. Automated Marketing Playbook & Growth Vectors (Click to Expand)</summary>
 <p align="center">
-<img src="1000251851.jpg" alt="Automated Marketing Playbook" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img width="1763" height="844" alt="9" src="https://github.com/user-attachments/assets/ebb37089-e5dc-4359-9078-a34ad6103210" />
 </p>
 </details>
 <details>
 <summary> 10. Campaign Target File Extraction Panel (Click to Expand)</summary>
 <p align="center">
-<img src="1000251852.jpg" alt="Campaign Target File Extraction Panel" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img width="1763" height="844" alt="10" src="https://github.com/user-attachments/assets/603d37ed-869f-4500-bf35-7c4f84d8d9b0" />
 </p>
 </details>
 
