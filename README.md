@@ -119,8 +119,8 @@ The platform converts numerical cluster identities into precise business playboo
 <details>
 <summary> 1. Executive Hub Control Terminal (Click to Expand)</summary>
 <p align="center">
-<img src="<img width="1763" height="844" alt="Screenshot_17-6-2026_0451_localhost" src="https://github.com/user-attachments/assets/6b1e1cb1-77ac-46ee-a985-ecde1fd2b13a" />
-" alt="Executive Hub Control Terminal" width="85%" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+<img src="<img width="1763" height="844" alt="Screenshot_17-6-2026_0451_localhost" src="https://github.com/user-attachments/assets/7e6894b0-5eee-4032-931e-60e92db1e29c" />
+" />
 </p>
 </details>
 <details>
