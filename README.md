@@ -1,6 +1,7 @@
 # 📊 Customer Segmentation & Marketing Intelligence System
 An end-to-end Customer Analytics and Unsupervised Machine Learning application designed to partition transactional enterprise data into actionable customer personas. The system transforms raw retail invoice logs into high-value business intelligence, enabling marketing teams to proactively maximize customer lifetime value (CLTV), optimize promotional spend, and diagnose structural retention bottlenecks.
-**🔗 Live Demo:** View App on Hugging Face Spaces
+
+**🔗 Live Demo:** https://customer-segmentation-engine-vbsblpljhw6ai2wquqsd7h.streamlit.app/
 
 ---
 
@@ -28,8 +29,8 @@ This system helps marketing and growth executives shift from blind, uniform targ
 ## ⚙️ System Workflow
 
 Raw Transaction Logs ──> Data Cleaning & Validation ──> RFM Feature Engineering  
-                                                                 │  
-                                                                 ▼  
+                                                                       │  
+                                                                       ▼  
 Streamlit Dashboard <── Marketing Analytics <── K-Means <── Log + StandardScaler
 
 ---
